@@ -1,0 +1,15 @@
+#bs-example-navbar-collapse-1  li{
+	width: 100%;
+	background-color: #790C50;
+
+}
+#bs-example-navbar-collapse-1  li a{
+	color: #DFEFFC;
+	text-align: center;
+}
+#bs-example-navbar-collapse-1  li a:hover{
+	background-color: black;
+}
+#lorem{
+	background-color: #C7CAE0;
+}

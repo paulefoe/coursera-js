@@ -10,6 +10,17 @@ h1 {
   font-size: 1.75em;
   text-align: center;
 }
+#color1{
+	background-color: #DCD0D5;
+}
+#color2{
+	background-color: #63F6A9;
+}
+
+#color3{
+	background-color: #DCD0D5;
+}
+
 
 .top-right1 , .top-right2, .top-right3{
 	position: absolute;
@@ -41,7 +52,6 @@ h1 {
 .large, .medium, .mobile{
 	position: relative;
 	padding-top: 40px;
-	background-color: #DCD0D5;
 	float: left;
   	border: solid 1px black;
   	padding-left: 10px;
