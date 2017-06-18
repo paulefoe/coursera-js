@@ -10,6 +10,7 @@
 #bs-example-navbar-collapse-1  li a:hover{
 	background-color: black;
 }
-#lorem{
+ #lorem{
 	background-color: #C7CAE0;
+	border: solid black 1px;
 }
